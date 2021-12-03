@@ -2,7 +2,7 @@
 
 - 🥼 I'm a PhD candidate at the [Computational Media Lab](http://cm.cecs.anu.edu.au/) at the [Australian National University](https://www.anu.edu.au/).
 - 🔭 I've worked on natural language processing, graph neural networks, and physics simulation.
-- 🌱 I enjoy learning about maths, physics, and philosphy.
+- 🌱 I enjoy learning about maths, physics, and philosophy.
 
 Check out my latest work at the ML4PS workshop @ NeurIPS 2021.
 
