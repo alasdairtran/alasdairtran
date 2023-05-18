@@ -4,7 +4,7 @@
 - 🔭 I've worked on natural language processing, graph neural networks, and physics simulation.
 - 🌱 I enjoy learning about maths, physics, and philosophy.
 
-Check out my latest work at the ML4PS workshop @ NeurIPS 2021.
+Check out my latest work at ICLR 2023.
 
 <p>
 <h4 align='center'> <a href="https://github.com/alasdairtran/fourierflow">Factorized Fourier Neural Operators</a></h4>
